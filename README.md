@@ -7,7 +7,7 @@
 
 # Overview
 
-![figure 1](/Figure/figure1.png)
+![figure 1](/Figure/Figure1.png)
 
 
 # Requirements 
