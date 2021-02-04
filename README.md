@@ -9,7 +9,7 @@
 
 <fig1 src="/Figure/fig1.png" width="30%" height="30%">
  
-![figure 1](/Figure/fig1.png){: width="50" height="50"}
+
 
 ![figure 2](/Figure/fig2.png){: width="80" height="80"}
 
