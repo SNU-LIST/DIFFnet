@@ -1,5 +1,5 @@
 # DIFFnet
-* the code is for reconstructing diffusion model parameters from various diffusion gradient schemes and b-values using deep neural networks.
+* the code is for reconstructing diffusion model parameters from various diffusion gradient schemes and b-values using deep learning (DIFFnet).
 * last update : 2020. 02. 04
 * The source data for training can be shared to academic institutions. Request should be sent to snu.list.software@gmail.com. For each request, individual approval from our institutional review board is required (i.e. takes time)
 
@@ -16,11 +16,30 @@
 
 # Data acquisition
 
+3T MRI system (Tim Trio, SIEMENS, Erlangen, Germany) using a 32-channel phased-array head coil.
+
+DatasetDTI-A and DatasetNODDI-A were form below reference.
+
+* DatasetDTI-A (b = 700 s/mm^2 with 32 directinos)
+
+* DatasetDTI-B (b = 1000 s/mm^2 with 30 directions)
+
+* DatasetNODDI-A (b = 300 s/mm^2 with 8 directions; b = 700 s/mm^2 with 32 directions; b = 2000 s/mm^2 with 64 directions) 
+
+* DatasetNODDI-B (b = 300 s/mm^2 with 8 directions; b = 700 s/mm^2 with 30 directions; b = 2000 s/mm^2 with 60 directions) 
+
 # Usage
 ### Simulation 
 
+* Monte-Carlo diffusion simulation code to generate diffusion-weighted signals for training.
+
 ### Training
+
+* The source code for training DIFFnet. Simulated data from Monte-Carlo diffusion simulation has to be required.
 
 ### Evaluation
 
+* The source code for evaluation of the trained networks.
+* in-vivo data and simulated data can be evaluated both.
+* networks generate diffusion model parameters.
 
