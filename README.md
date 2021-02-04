@@ -7,9 +7,9 @@
 
 # Overview
 
-![figure 1](/Figure/fig1.png)
+![figure 1](/Figure/fig1.png){: width="50" height="50"}
 
-![figure 2](/Figure/fig2.png){: width="100" height="100"}
+![figure 2](/Figure/fig2.png){: width="80" height="80"}
 
 # Requirements 
 * Python 3.7
