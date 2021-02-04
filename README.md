@@ -20,6 +20,10 @@
 
 DatasetDTI-A and DatasetNODDI-A were form below reference.
 
+  * W. Jung et al., "Whole brain g-ratio mapping using myelin water imaging (MWI) and neurite orientation dispersion and density imaging (NODDI)," 
+    NeuroImage, vol. 182, pp. 379-388, Nov. 2018.
+    https://www.sciencedirect.com/science/article/pii/S1053811917308017
+
 * DatasetDTI-A (b = 700 s/mm^2 with 32 directinos)
 
 * DatasetDTI-B (b = 1000 s/mm^2 with 30 directions)
