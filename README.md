@@ -19,6 +19,7 @@
 3T MRI system (Tim Trio, SIEMENS, Erlangen, Germany) using a 32-channel phased-array head coil.
 
 DatasetDTI-A and DatasetNODDI-A were form below reference.
+  * tensorflow, numpy, matplotlib, scipy.io, h5py, tqdm
 
   * W. Jung et al., "Whole brain g-ratio mapping using myelin water imaging (MWI) and neurite orientation dispersion and density imaging (NODDI)," 
     NeuroImage, vol. 182, pp. 379-388, Nov. 2018.
