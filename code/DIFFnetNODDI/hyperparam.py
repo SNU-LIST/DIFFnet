@@ -1,0 +1,19 @@
+epochs = 50
+train_batch_size =200
+train_data_num = 40000
+test_batch_size =200
+test_memory_size = 10000
+validation_data_num = 10000
+validation_batch_size = 200
+chan = 32
+lr = 0.001
+lrmin = 1e-6
+factor = 0.93
+threshold = 0.005
+patient_num = 10
+output_shape = 3
+input_shape = 104
+sub_file_num = 4
+default_chan = 9
+quantization = 20
+
