@@ -3,6 +3,8 @@
 * last update : 2020. 02. 04
 * The source data for training can be shared to academic institutions. Request should be sent to snu.list.software@gmail.com. For each request, individual approval from our institutional review board is required (i.e. takes time)
 
+# Overview
+
 # Reference
 
 # Requirements 
@@ -19,8 +21,6 @@
 * 3T MRI system (Tim Trio, SIEMENS, Erlangen, Germany) using a 32-channel phased-array head coil.
 
 * DatasetDTI-A and DatasetNODDI-A were form below reference.
-  * tensorflow, numpy, matplotlib, scipy.io, h5py, tqdm
-
   * W. Jung et al., "Whole brain g-ratio mapping using myelin water imaging (MWI) and neurite orientation dispersion and density imaging (NODDI)," 
     NeuroImage, vol. 182, pp. 379-388, Nov. 2018.
     https://www.sciencedirect.com/science/article/pii/S1053811917308017
