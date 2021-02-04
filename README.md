@@ -7,7 +7,7 @@
 
 # Overview
 
-<fig1 src="/Figure/fig1.png" width="300" height="300">
+<fig1 src="/Figure/fig1.png" width="30%" height="30%">
  
 ![figure 1](/Figure/fig1.png){: width="50" height="50"}
 
