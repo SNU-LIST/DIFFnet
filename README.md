@@ -9,7 +9,7 @@
 
 ![figure 1](/Figure/fig1.png)
 
-![figure 2](/Figure/fig2.png)
+![figure 2](/Figure/fig2.png){: width="100" height="100"}
 
 # Requirements 
 * Python 3.7
