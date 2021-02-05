@@ -5,6 +5,8 @@
 
 # Reference
 
+* DIFFnet: Diffusion parameter mapping network generalized for input diffusion gradient schemes and bvalues. J. Park, W. Jung, E-J. Choi, S-H. Oh, D. Shin, H. An, and J. Lee.</br> https://arxiv.org/abs/2102.02463
+
 # Overview
 
 ![figure 1](/Figure/fig1.png)
